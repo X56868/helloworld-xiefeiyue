@@ -1,0 +1,12 @@
+{
+  "name": "helloworld-nodejs",
+  "version": "1.0.0",
+  "description": "我的第一个 AI 开发的网站",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "author": "X56868",
+  "license": "MIT"
+}
